@@ -21,3 +21,7 @@
 If you are using google as the SMTP service, your email password will _not_ work. You need to create a `app password` instead. find out more [here](https://support.google.com/accounts/answer/185833?hl=en).
 
 :::
+
+---
+
+- To login, browse to your hostname with a final /joplin. The default Email is `admin@localhost` with `admin` as password. Please change those credentials immediately and add a non-admin user under the Users tab for syncing with joplin. Keep in mind that the server is accessible to anyone on the Internet and therefore strong passwords are highly recommended.
